@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ibrahim7176
 - 👀 I’m interested in coding and computer science
-- 🌱 I’m currently learning Front-End devolope
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me iahmed781@yahoo.com
 
